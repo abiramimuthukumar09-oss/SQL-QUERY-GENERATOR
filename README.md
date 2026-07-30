@@ -28,7 +28,6 @@ Built with **FastAPI**, **Google Gemini 2.5 Flash**, and a responsive **Glassmor
 ---
 
 ## 📂 Repository Structure
-``text
 SQL-QUERY-GENERATOR/
 ├── app.py                # FastAPI backend & Gemini integration
 ├── list_models.py        # Utility script to test Gemini API models
@@ -38,5 +37,5 @@ SQL-QUERY-GENERATOR/
 ├── templates/
 │   └── index.html        # Main HTML layout
 └── static/
-    ├── style.css         # Glassmorphism styling
-    └── script.js         # Interactive JS, typing effect & LocalStorage
+├── style.css         # Glassmorphism styling
+└── script.js         # Interactive JS & LocalStorage

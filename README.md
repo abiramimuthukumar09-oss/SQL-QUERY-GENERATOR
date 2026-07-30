@@ -29,13 +29,13 @@ Built with **FastAPI**, **Google Gemini 2.5 Flash**, and a responsive **Glassmor
 
 ## 📂 Repository Structure
 SQL-QUERY-GENERATOR/
-├── app.py                # FastAPI backend & Gemini integration
-├── list_models.py        # Utility script to test Gemini API models
-├── requirement.txt       # Python dependencies
-├── .env.example          # Template for environment variables
-├── .gitignore            # Git exclusion rules
-├── templates/
-│   └── index.html        # Main HTML layout
-└── static/
-├── style.css         # Glassmorphism styling
-└── script.js         # Interactive JS & LocalStorage
+- ├── app.py                # FastAPI backend & Gemini integration
+- ├── list_models.py        # Utility script to test Gemini API models
+- ├── requirement.txt       # Python dependencies
+- ├── .env.example          # Template for environment variables
+- ├── .gitignore            # Git exclusion rules
+- ├── templates/
+- │   └── index.html        # Main HTML layout
+- └── static/
+- ├── style.css         # Glassmorphism styling
+- └── script.js         # Interactive JS & LocalStorage
